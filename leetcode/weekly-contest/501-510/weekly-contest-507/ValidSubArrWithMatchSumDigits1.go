@@ -52,6 +52,7 @@ func ValidSubArrWithMatchSumDigits1(nums []int, x int) (r int) {
 	return
 }
 
+// TLE
 // func  ValidSubArrWithMatchSumDigits1(nums []int, x int) (r int) {
 // 	for i := 0; i < len(nums); i++ {
 // 		sum := 0
